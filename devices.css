@@ -1,0 +1,59 @@
+@media screen and (max-width : 450px){
+    #txt{
+        width: 90%;
+    }
+    .ghj{
+        margin: auto;
+    }
+    h1{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width : 400px){
+    .btn{
+        width: 50px;
+        height: 50px;
+        margin: 0 .5rem;
+    }
+    .row1{
+        margin: 1rem auto;
+        width: 100%;
+    }
+    .l{
+        width: 120px;
+    }
+}
+
+@media screen and (max-width : 275px){
+    .btn{
+        width: 40px;
+        height: 40px;
+        margin: 0 .5rem;
+    }
+    .row1{
+        margin: 1rem auto;
+        width: 100%;
+    }
+    .l{
+        width: 100px;
+    }
+    h1{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width : 250px){
+    .btn{
+        width: 30px;
+        height: 30px;
+        margin: 0 .5rem;
+    }
+    .row1{
+        margin: 1rem auto;
+        width: 100%;
+    }
+    .l{
+        width: 80px;
+    }
+}

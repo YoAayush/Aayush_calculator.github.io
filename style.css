@@ -1,0 +1,53 @@
+body{
+    background: url(thumb-1920-377804.jpg);
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+.ghj{
+    width: fit-content;
+    margin: auto;
+}
+.text{
+    width: fit-content;
+    margin: auto;
+}
+#txt{
+    width: 80%;
+    height: 3rem;
+    border-color: antiquewhite;
+    border-radius: 10px;
+    background: none;
+    color: antiquewhite;
+    text-align: right;
+    font-size: 35px;
+    margin: auto;
+    display: flex;
+}
+.row{
+    margin: 1rem auto;
+    width: fit-content;
+}
+.row1{
+    margin: 1rem auto;
+    width: fit-content;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    border: 1% solid black;
+    border-radius: 11px;
+    cursor: pointer;
+    background: url(download.jpg);
+    margin: 0 1rem;
+}
+.dfg{
+    width: fit-content;
+    margin: auto;
+}
+.l{
+    width: 155px;
+}
